@@ -26,3 +26,5 @@ his repository contains the code, data, and documentation for the Data Science f
 │   ├── figures               # Generated figures for reports
 │   └── final_report          # Final report of the project
 └── requirements.txt          # List of dependencies
+
+
